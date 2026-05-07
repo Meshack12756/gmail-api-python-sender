@@ -63,7 +63,7 @@ service = gmail_authenticate()
 
 # Email details
 sender = "me"
-to = "meshackmcquin@gmail.com"
+to = ""
 
 subject = "Hello from Meshack Company."
 message_text = "This is a simple email sent using Python and Gmail API. Thank you for always choosing us."
