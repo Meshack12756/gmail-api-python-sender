@@ -9,6 +9,7 @@ venv/
 # Gmail API secrets
 credentials.json
 token.pickle
+token.json
 
 # VS Code settings
 .vscode/
