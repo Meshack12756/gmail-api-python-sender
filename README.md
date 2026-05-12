@@ -1,1 +1,1 @@
-A Gmail API that utilises Python to understand Email Automation in systems.
+## A Gmail API that utilises Python to understand Email Automation in software systems.
